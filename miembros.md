@@ -18,4 +18,3 @@
 * Wasp
 * Antman
 * Fulano
-* De tal
